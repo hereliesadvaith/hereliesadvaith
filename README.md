@@ -1,6 +1,6 @@
-### Hi there 👋
+## Hi there 👋
 
-## 📫 Contact Me
+### 📫 Contact Me
 
 - Email: hereliesadvaith@gmail.com
 - LinkedIn: https://t.me/hereliesadvaith
