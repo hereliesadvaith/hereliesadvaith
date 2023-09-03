@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+---
+
 Welcome to my corner of GitHub! I'm Advaith, a passionate Python aficionado and a fresh explorer in the world of coding.
 
 ---
@@ -16,7 +18,7 @@ Welcome to my corner of GitHub! I'm Advaith, a passionate Python aficionado and 
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hereliesadvaith&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### 📫 Contact Me
+---
 
 - Email: hereliesadvaith@gmail.com
 - Telegram: https://t.me/hereliesadvaith
