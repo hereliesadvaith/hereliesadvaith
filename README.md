@@ -14,8 +14,6 @@ Welcome to my corner of GitHub! I'm Advaith, a passionate Python aficionado and 
 
 ![Debian](https://img.shields.io/badge/Debian-D70A53?style=plastic&logo=debian&logoColor=white) ![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=plastic&logo=Pop!_OS&logoColor=white)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hereliesadvaith&theme=react&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
-
 ---
 
 - Email: hereliesadvaith@gmail.com
