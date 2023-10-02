@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there
 
 
 Welcome to my corner of GitHub! I'm Advaith, a passionate Python aficionado and a fresh explorer in the world of coding.
