@@ -10,7 +10,7 @@ Welcome to my corner of GitHub! I'm Advaith, a passionate Python aficionado and 
 
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=plastic&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
 
-![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black)
+![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=plastic&logo=powerbi&logoColor=black) ![Odoo](https://img.shields.io/badge/Odoo-violet?style=plastic&logoColor=white)
 
 ---
 
