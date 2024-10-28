@@ -9,7 +9,7 @@ Welcome to my corner of GitHub! I'm Advaith, a passionate Python aficionado and 
 
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Owl](https://img.shields.io/badge/owl-%23714B67.svg?style=for-the-badge&logo=okta&logoColor=%white)
 
-![Odoo](https://img.shields.io/badge/Odoo-%23714B67.svg?style=for-the-badge&logo=okta&logoColor=%white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Django](https://img.shields.io/badge/django%20rest%20framework-%2320232a.svg?style=for-the-badge&logo=django&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-%23714B67.svg?style=for-the-badge&logo=okta&logoColor=%white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Django](https://img.shields.io/badge/django%20rest%20framework-%2320232a.svg?style=for-the-badge&logo=django&logoColor=white) ![GraphQL](https://img.shields.io/badge/-Graphene-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 
 ![Scrapy](https://img.shields.io/badge/scrapy-%236DB33F.svg?style=for-the-badge&logo=scrapy&logoColor=white) ![Numpy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![SKlearn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
